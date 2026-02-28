@@ -13,11 +13,20 @@ A modular design sprint toolkit for [Claude Code](https://docs.anthropic.com/en/
 
 ## Install
 
+### Claude Code
+
 ```bash
-claude plugin add /path/to/design-sprinter
+claude plugin marketplace add https://github.com/whetspretz/design-sprinter
+claude plugin install design-sprinter@whetspretz
 ```
 
-Or clone this repo and add it as a local plugin.
+Verify it worked by running `/design-sprinter:` in Claude Code — you should see the command list.
+
+### Other AI Agents
+
+```bash
+npx skills add whetspretz/design-sprinter
+```
 
 ## Quick Start
 
