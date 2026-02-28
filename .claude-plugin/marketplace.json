@@ -1,0 +1,20 @@
+{
+  "name": "whetspretz",
+  "owner": {
+    "name": "Matthew Whetsell"
+  },
+  "metadata": {
+    "description": "Design sprints without coworkers",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "design-sprinter",
+      "source": "./plugins/design-sprinter",
+      "description": "A modular design sprint toolkit — run exercises in any order to brainstorm, prioritize, and storyboard product ideas.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["design-sprint", "brainstorm", "ideation", "product-design", "workshop"]
+    }
+  ]
+}
