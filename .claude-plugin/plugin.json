@@ -1,0 +1,10 @@
+{
+  "name": "design-sprinter",
+  "description": "A modular design sprint toolkit — run exercises in any order to brainstorm, prioritize, and storyboard product ideas.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Matthew Whetsell"
+  },
+  "keywords": ["design-sprint", "brainstorm", "ideation", "product-design", "workshop"],
+  "license": "MIT"
+}
