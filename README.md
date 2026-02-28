@@ -7,6 +7,8 @@
  ─ ── ───────────  |___/ ────────── |_| ─────────────────── ─── ── ─ ─
 ```
 
+*Design sprints without coworkers.*
+
 A modular design sprint toolkit for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Run exercises in any order to brainstorm, prioritize, and storyboard product ideas.
 
 ## Install
